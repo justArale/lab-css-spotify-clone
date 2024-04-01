@@ -158,3 +158,15 @@ a {
   width: 22vw;
   margin: auto;
 }
+
+/* instance section */
+.instance {
+  background-color: var(--background-color-green);
+  color: var(--font-color-white);
+  margin: 48px;
+  padding: 80px 100px;
+}
+
+.instance-headline {
+  border-bottom: 4px solid var(--background-color-white);
+}
